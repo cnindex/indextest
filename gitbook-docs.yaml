@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: 创约·魔法禁书目录6
+  structure:
+    - type: space
+      key: space-indexgt6
+      title: 创约·魔法禁书目录6
+      path: indexgt6
+      default: true
+      content:
+        directory: ./
+        language: zh
